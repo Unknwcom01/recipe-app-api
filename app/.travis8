@@ -1,0 +1,12 @@
+# file must be in folder app and be anamed .travis8
+[flake8]
+
+exclude =
+
+  migrations,
+
+  __pycache__,
+
+  manage.py,
+
+  settings.py
